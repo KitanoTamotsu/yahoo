@@ -68,7 +68,17 @@ Yahoo!.alfredworkflowのメモ
 　もし皆さんがRSSをよく利用するのであれば、RSS xxxをキーワードとしてAlfredでまとめてみてはいかかでしょう
 　
 
+・ScriptFilterのJSONフォーマットの編集をワンライナーから1行1プロパティーに変更
 
+　修正前の例
+　json=$json'{"title":"'${title[i]}'","subtitle":"'${desc[i]}'","arg":"'${link[i]}'"}'  
+ 
+ 　修正後の例
+  json=$json'{"title":"'${title[i]}'",'
+  json=$json'"subtitle":"'${desc[i]}'",'
+  json=$json'"arg":"'${link[i]}'"}'  
+
+・ソースとは関係ありませんが、サンプル動画を投稿
 　
 
 
