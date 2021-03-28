@@ -70,10 +70,10 @@ Yahoo!.alfredworkflowのメモ
 
 ・ScriptFilterのJSONフォーマットの編集をワンライナーから1行1プロパティーに変更
 
-　修正前の例
+　修正前
 　json=$json'{"title":"'${title[i]}'","subtitle":"'${desc[i]}'","arg":"'${link[i]}'"}'  
  
- 　修正後の例
+ 　修正後
   json=$json'{"title":"'${title[i]}'",'
   json=$json'"subtitle":"'${desc[i]}'",'
   json=$json'"arg":"'${link[i]}'"}'  
