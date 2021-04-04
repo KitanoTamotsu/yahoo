@@ -1,4 +1,4 @@
-Yahoo!.alfredworkflowのメモ
+やほお！みんなの意見.alfredworkflowのメモ
 
 機能：
 　Alfred Json Formatを活用してRSSを表示させる
@@ -68,6 +68,7 @@ Yahoo!.alfredworkflowのメモ
 　もし皆さんがRSSをよく利用するのであれば、RSS xxxをキーワードとしてAlfredでまとめてみてはいかかでしょう
 　
 
+ver1.1(2021-03-28)：
 ・ScriptFilterのJSONフォーマットの編集をワンライナーから1行1プロパティーに変更
 
 　修正前
@@ -80,5 +81,10 @@ Yahoo!.alfredworkflowのメモ
 
 ・ソースとは関係ありませんが、サンプル動画を投稿
 　
+
+ver1.2(2021-04-04)：
+ ・シェルスクリプトをbashからzshに変更
+ ・ワークフロー名をyahoo!.alfredworkflowからやほお！みんなの意見.alfredworkflowに変更
+ 
 
 
