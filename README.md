@@ -42,7 +42,7 @@
 <br>　具体的にはScriptFilterのキーワードを『ヤフー　〇〇〇〇』とするだけ
 <br>　こうすることで、『ヤフー』と入力すると、全てのカテゴリーが表示できます
 <br>　実際に動かしてみてください。サンプル動画もどうぞ。
-https://user-images.githubusercontent.com/40127279/125182947-5a489f00-e24d-11eb-823d-9ffe309f65d7.mp4
+<br>　https://user-images.githubusercontent.com/40127279/125182947-5a489f00-e24d-11eb-823d-9ffe309f65d7.mp4
 
 #### 背景
  AlfredのJSONフォーマットのサンプルとしてScriptFilterが準備されていたので、
