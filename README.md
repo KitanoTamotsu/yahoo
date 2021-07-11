@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/40127279/125182947-5a489f00-e24d-11eb-823d-9ffe309f65d7.mp4
-
 ## 　　Lesson7.　MXLをパースする
 #### 開発メモ
 ### 1.まずは『ヤフーゆるネタ』でScriptFilterを試作してみる
@@ -45,7 +41,8 @@ https://user-images.githubusercontent.com/40127279/125182947-5a489f00-e24d-11eb-
 <br>　試行錯誤した結果、複数のScriptFilterを並列するという方法をとりました
 <br>　具体的にはScriptFilterのキーワードを『ヤフー　〇〇〇〇』とするだけ
 <br>　こうすることで、『ヤフー』と入力すると、全てのカテゴリーが表示できます
-<br>　実際に動かしてみてください
+<br>　実際に動かしてみてください。サンプル動画もどうぞ。
+https://user-images.githubusercontent.com/40127279/125182947-5a489f00-e24d-11eb-823d-9ffe309f65d7.mp4
 
 #### 背景
  AlfredのJSONフォーマットのサンプルとしてScriptFilterが準備されていたので、
