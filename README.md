@@ -1,5 +1,8 @@
 ## 　　Lesson7.　MXLをパースする
 #### 開発メモ
+ワークフロー
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/126856670-b705deb1-6ce7-4633-8eff-345b743c9567.png">
+
 ### 1.まずは『ヤフーゆるネタ』でScriptFilterを試作してみる
 　このワークフローには7つのScriptFilterがありますが作りは全て同じ
 <br>　まずは『(ヤフー　ゆるネタ)』のコードを見てください
@@ -32,6 +35,10 @@
 <br>　ことができました
 <br>　
 <br>　兎にも角にも、これでコア部分の完成です
+<br>　
+<br>　RunScript
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/126856694-5a135691-32e4-48e4-86a6-ae9dedc043a9.png">
+
 
 ### 2.初めにRSSのカテゴリーを選択させたい
 　ヤフーニュース『みんなの意見』にはカテゴリがあるので、
